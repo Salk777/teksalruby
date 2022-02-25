@@ -11,6 +11,7 @@ module Railsgirls
     # Initialize configuration defaults for originally generated Rails version.
     config.load_defaults 7.0
     config.hosts << "533fc77852df4cf8b4e99f45f64b2ba9.vfs.cloud9.ap-southeast-2.amazonaws.com"
+    config.hosts << "shielded-castle-46239.herokuapp.com"
     # Configuration for the application, engines, and railties goes here.
     #
     # These settings can be overridden in specific environments using the files
